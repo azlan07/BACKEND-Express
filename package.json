@@ -1,6 +1,6 @@
 {
-  "name": "backend-servicerepository",
-  "version": "1.0.0",
+  "name": "backend-with-service_repository_patern",
+  "version": "0.0.1",
   "description": "",
   "main": "app/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "seed": "sequelize db:seed:all"
   },
   "keywords": [],
-  "author": "zoNe",
+  "author": "uTie",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -21,7 +21,6 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "firebase": "^10.1.0",
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^9.0.0",
     "morgan": "^1.10.0",

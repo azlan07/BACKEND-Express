@@ -10,7 +10,7 @@ const cloudinary = require('./cloudinary')
 const multer = require('multer');
 const path = require('path');
 const fs = require('fs');
-const config = require('./firebase.config')
+// const config = require('./firebase.config')
 // const upload = multer({ dest: 'uploads/' });
 
 apiRouter.use(cors());
